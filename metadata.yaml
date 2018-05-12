@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33148'
     url: http://www.gutenberg.org/2009/agents/33148
 description: A story of the adjustment demanded of a pioneer woman living on Mars.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28111#Moment-of-Truth
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-02-18'
 gutenberg_type: Text
